@@ -32,6 +32,7 @@ class App extends Component {
             isBasketShow: false,
             amount: 0,
         };
+        this.addToBasket = this.addToBasket.bind(this);
     };
 
 

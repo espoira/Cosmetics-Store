@@ -13,7 +13,6 @@ class Shop extends React.Component {
             goods: [],
             loading: true,
         };
-        this.addToBasket = this.addToBasket.bind(this);
     }
 
 
