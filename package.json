@@ -1,6 +1,6 @@
 {
-  "name": "CosmeticsStore",
-  "home": "https://espoira.github.io/Cosmetics-Store",
+  "name": "form",
+  "homepage": "https://espoira.github.io/Cosmetics-Store",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "main -d build"
   },
   "eslintConfig": {
     "extends": [
