@@ -3,7 +3,7 @@ function Header() {
         <nav className='pink lighten-3'>
             <div className='nav-wrapper'>
 
-                <a href='/' className='brand-logo'>
+                <a href='/Cosmetics Store/' className='brand-logo'>
                     <i className='material-icons'>spa</i>
                     Heavenly Beauty
                 </a>
