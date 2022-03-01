@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.56790434.chunk.css",
-    "main.js": "/static/js/main.d821049d.chunk.js",
-    "main.js.map": "/static/js/main.d821049d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6191e1c2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6191e1c2.js.map",
-    "static/js/2.65898877.chunk.js": "/static/js/2.65898877.chunk.js",
-    "static/js/2.65898877.chunk.js.map": "/static/js/2.65898877.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.56790434.chunk.css.map": "/static/css/main.56790434.chunk.css.map",
-    "static/js/2.65898877.chunk.js.LICENSE.txt": "/static/js/2.65898877.chunk.js.LICENSE.txt"
+    "main.css": "/Cosmetics-Store/static/css/main.56790434.chunk.css",
+    "main.js": "/Cosmetics-Store/static/js/main.d821049d.chunk.js",
+    "main.js.map": "/Cosmetics-Store/static/js/main.d821049d.chunk.js.map",
+    "runtime-main.js": "/Cosmetics-Store/static/js/runtime-main.6191e1c2.js",
+    "runtime-main.js.map": "/Cosmetics-Store/static/js/runtime-main.6191e1c2.js.map",
+    "static/js/2.65898877.chunk.js": "/Cosmetics-Store/static/js/2.65898877.chunk.js",
+    "static/js/2.65898877.chunk.js.map": "/Cosmetics-Store/static/js/2.65898877.chunk.js.map",
+    "index.html": "/Cosmetics-Store/index.html",
+    "static/css/main.56790434.chunk.css.map": "/Cosmetics-Store/static/css/main.56790434.chunk.css.map",
+    "static/js/2.65898877.chunk.js.LICENSE.txt": "/Cosmetics-Store/static/js/2.65898877.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6191e1c2.js",
