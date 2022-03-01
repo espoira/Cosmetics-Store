@@ -159,6 +159,9 @@ nav {
 .collection-item .order:hover{
     background: floralwhite;
 }
+@media (max-width: 867px) {
+    .order{display:none;}
+}
 
 .basket-close {
     cursor: pointer;

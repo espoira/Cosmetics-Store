@@ -30,7 +30,7 @@ function GoodsItem(props) {
 
     const brandName = brand? brand : name.split(' ')[0] + ' ' + name.split(' ')[1];
     const titleLower = (name.toLowerCase().slice(0,5) === brandName.slice(0,5))?  name.toLowerCase().replace(brandName,'') : name.toLowerCase();
-    const title = name.slice(name.length-titleLower.length).replace('&trade;','').replace('#','');
+    const title = name.slice(name.length-titleLower.length).replace('&trade;','').replace('&8482;','').replace('#','').replace('<BR>',' ');
 
     return (
         <div className='card'>
