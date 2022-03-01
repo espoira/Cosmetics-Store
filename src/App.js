@@ -116,7 +116,7 @@ class App extends Component {
 
     showList = (id) => {
         this.setState ({flag: true});
-        this.setState ({typeName: this.state.categories[id-1].image.slice(4).split('.')[0]});
+        this.setState ({typeName: this.state.categories[id-1].image.slice(5).split('.')[0]});
     };
 
     goBack = () => {
