@@ -17,6 +17,16 @@ code {
 nav {
   padding: 0 1rem;
 }
+@media (max-width: 538px) {
+    .nav-wrapper a{
+        position: relative;
+    }
+}
+@media (max-width: 282px) {
+    .brand-logo .material-icons{
+        display:none;
+    }
+}
 
 .content {
   min-height: calc(100vh - 70px - 64px);
