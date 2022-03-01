@@ -17,7 +17,7 @@ class Shop extends React.Component {
 
 
     componentDidMount() {
-        fetch(`http://${APP_URL}type=${this.props.str}`)
+        fetch(`https://${APP_URL}type=${this.props.str}`)
             .then((response) => response.json())
             .then((data) => {
                 this.setState({goods:data});
